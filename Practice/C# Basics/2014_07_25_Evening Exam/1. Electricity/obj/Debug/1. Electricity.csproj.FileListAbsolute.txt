@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\1. Electricity\bin\Debug\_1.Electricity.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\1. Electricity\bin\Debug\_1.Electricity.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\1. Electricity\obj\Debug\1. Electricity.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\1. Electricity\obj\Debug\_1.Electricity.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\1. Electricity\obj\Debug\_1.Electricity.pdb

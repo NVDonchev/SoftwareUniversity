@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\4. MorseCodeNumbers\bin\Debug\_4.MorseCodeNumbers.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\4. MorseCodeNumbers\bin\Debug\_4.MorseCodeNumbers.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\4. MorseCodeNumbers\obj\Debug\4. MorseCodeNumbers.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\4. MorseCodeNumbers\obj\Debug\_4.MorseCodeNumbers.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\4. MorseCodeNumbers\obj\Debug\_4.MorseCodeNumbers.pdb

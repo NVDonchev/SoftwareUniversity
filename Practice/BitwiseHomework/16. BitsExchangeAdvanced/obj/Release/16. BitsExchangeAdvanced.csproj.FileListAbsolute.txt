@@ -1,5 +1,0 @@
-D:\Development\Software University\BitwiseHomework\16. BitsExchangeAdvanced\bin\Release\_16.BitsExchangeAdvanced.exe
-D:\Development\Software University\BitwiseHomework\16. BitsExchangeAdvanced\bin\Release\_16.BitsExchangeAdvanced.pdb
-D:\Development\Software University\BitwiseHomework\16. BitsExchangeAdvanced\obj\Release\16. BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
-D:\Development\Software University\BitwiseHomework\16. BitsExchangeAdvanced\obj\Release\_16.BitsExchangeAdvanced.exe
-D:\Development\Software University\BitwiseHomework\16. BitsExchangeAdvanced\obj\Release\_16.BitsExchangeAdvanced.pdb

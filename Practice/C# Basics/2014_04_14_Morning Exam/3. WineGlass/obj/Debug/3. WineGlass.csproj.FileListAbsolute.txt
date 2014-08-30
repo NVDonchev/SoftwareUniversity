@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\3. WineGlass\bin\Debug\_3.WineGlass.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\3. WineGlass\bin\Debug\_3.WineGlass.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\3. WineGlass\obj\Debug\3. WineGlass.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\3. WineGlass\obj\Debug\_3.WineGlass.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\3. WineGlass\obj\Debug\_3.WineGlass.pdb

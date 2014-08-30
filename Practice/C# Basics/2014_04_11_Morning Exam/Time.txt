@@ -1,9 +1,0 @@
-1. 22 min (0:22) => 100/100
-2. 26 min (0:26) =>  75/100
-3. 27 min (0:27) => 100/100
-4. 30 min (0:30) => 100/100 (Second Try)
-5. 130min (2:10) => 100/100 (24 min using strings)
-
-Total: 235 min (3:55)
-
-Total: 129 min (2:09) (using strings on Task 5)

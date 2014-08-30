@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\2. BiggestTriple\bin\Debug\_2.BiggestTriple.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\2. BiggestTriple\bin\Debug\_2.BiggestTriple.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\2. BiggestTriple\obj\Debug\2. BiggestTriple.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\2. BiggestTriple\obj\Debug\_2.BiggestTriple.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\2. BiggestTriple\obj\Debug\_2.BiggestTriple.pdb

@@ -1,4 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\3. PandaScotlandFlag\bin\Debug\_3.PandaScotlandFlag.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\3. PandaScotlandFlag\bin\Debug\_3.PandaScotlandFlag.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\3. PandaScotlandFlag\obj\Debug\_3.PandaScotlandFlag.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\3. PandaScotlandFlag\obj\Debug\_3.PandaScotlandFlag.pdb

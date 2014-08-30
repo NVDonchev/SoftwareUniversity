@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\2. SumOfElements\bin\Debug\_2.SumOfElements.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\2. SumOfElements\bin\Debug\_2.SumOfElements.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\2. SumOfElements\obj\Debug\2. SumOfElements.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\2. SumOfElements\obj\Debug\_2.SumOfElements.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\2. SumOfElements\obj\Debug\_2.SumOfElements.pdb

@@ -1,5 +1,0 @@
-C:\Users\Pathaway\Desktop\BitwiseHomework\12. ExtractBitFromInt\bin\Debug\_12.ExtractBitFromInt.exe
-C:\Users\Pathaway\Desktop\BitwiseHomework\12. ExtractBitFromInt\bin\Debug\_12.ExtractBitFromInt.pdb
-C:\Users\Pathaway\Desktop\BitwiseHomework\12. ExtractBitFromInt\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Pathaway\Desktop\BitwiseHomework\12. ExtractBitFromInt\obj\x86\Debug\_12.ExtractBitFromInt.exe
-C:\Users\Pathaway\Desktop\BitwiseHomework\12. ExtractBitFromInt\obj\x86\Debug\_12.ExtractBitFromInt.pdb

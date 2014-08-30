@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\1. WorkHours\bin\Debug\_1.WorkHours.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\1. WorkHours\bin\Debug\_1.WorkHours.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\1. WorkHours\obj\Debug\1. WorkHours.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\1. WorkHours\obj\Debug\_1.WorkHours.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\1. WorkHours\obj\Debug\_1.WorkHours.pdb
