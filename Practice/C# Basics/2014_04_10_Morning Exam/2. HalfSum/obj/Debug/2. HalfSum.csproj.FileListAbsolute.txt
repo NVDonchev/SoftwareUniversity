@@ -1,0 +1,6 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\bin\Debug\_2.HalfSum.exe.config
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\bin\Debug\_2.HalfSum.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\bin\Debug\_2.HalfSum.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\obj\Debug\_2.HalfSum.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\obj\Debug\_2.HalfSum.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\2. HalfSum\obj\Debug\2. HalfSum.csprojResolveAssemblyReference.cache

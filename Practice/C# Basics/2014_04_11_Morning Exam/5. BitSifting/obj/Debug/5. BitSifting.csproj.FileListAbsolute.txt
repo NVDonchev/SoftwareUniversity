@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\5. BitSifting\bin\Debug\_5.BitSifting.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\5. BitSifting\bin\Debug\_5.BitSifting.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\5. BitSifting\obj\Debug\5. BitSifting.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\5. BitSifting\obj\Debug\_5.BitSifting.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\5. BitSifting\obj\Debug\_5.BitSifting.pdb

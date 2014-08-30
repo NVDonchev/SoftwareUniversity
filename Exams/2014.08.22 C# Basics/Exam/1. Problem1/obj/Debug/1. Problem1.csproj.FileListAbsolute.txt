@@ -1,0 +1,5 @@
+C:\Users\Software Development\Desktop\C# Exam\Exam\1. Problem1\bin\Debug\_1.Problem1.exe
+C:\Users\Software Development\Desktop\C# Exam\Exam\1. Problem1\bin\Debug\_1.Problem1.pdb
+C:\Users\Software Development\Desktop\C# Exam\Exam\1. Problem1\obj\Debug\1. Problem1.csprojResolveAssemblyReference.cache
+C:\Users\Software Development\Desktop\C# Exam\Exam\1. Problem1\obj\Debug\_1.Problem1.exe
+C:\Users\Software Development\Desktop\C# Exam\Exam\1. Problem1\obj\Debug\_1.Problem1.pdb

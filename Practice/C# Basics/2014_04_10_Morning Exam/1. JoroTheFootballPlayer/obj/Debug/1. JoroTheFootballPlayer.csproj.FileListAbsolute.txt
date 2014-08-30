@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\1. JoroTheFootballPlayer\bin\Debug\_1.JoroTheFootballPlayer.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\1. JoroTheFootballPlayer\bin\Debug\_1.JoroTheFootballPlayer.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\1. JoroTheFootballPlayer\obj\Debug\1. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\1. JoroTheFootballPlayer\obj\Debug\_1.JoroTheFootballPlayer.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\1. JoroTheFootballPlayer\obj\Debug\_1.JoroTheFootballPlayer.pdb

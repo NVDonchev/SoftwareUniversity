@@ -1,0 +1,4 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\4. LongestAlphabeticalWord\bin\Debug\_4.LongestAlphabeticalWord.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\4. LongestAlphabeticalWord\bin\Debug\_4.LongestAlphabeticalWord.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\4. LongestAlphabeticalWord\obj\Debug\_4.LongestAlphabeticalWord.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\4. LongestAlphabeticalWord\obj\Debug\_4.LongestAlphabeticalWord.pdb

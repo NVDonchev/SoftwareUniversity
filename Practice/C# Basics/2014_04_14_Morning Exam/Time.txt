@@ -1,0 +1,12 @@
+1. 44 min (0:44) => 100/100
+2. 72 min (1:12) =>  93/100
+	* 85 min (1:25) => 100/100 After seeing tests input
+3. 31 min (0:31) => 100/100
+4. 98 min (1:38) =>  93/100
+	* 103 min (1:43) =>  100/100 After seeing tests input
+5. 65 min (1:05) =>  36/100
+	* 90 min (1:30) => 100/100 After seeing tests input
+
+Total: 245 min (4:05)
+
+Start: 13:20
