@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\5. ChangeEvenBits\bin\Debug\_5.ChangeEvenBits.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\5. ChangeEvenBits\obj\Debug\5. ChangeEvenBits.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\5. ChangeEvenBits\obj\Debug\_5.ChangeEvenBits.pdb

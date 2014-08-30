@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\1. MelonsAndWatermelons\bin\Debug\_1.MelonsAndWatermelons.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\1. MelonsAndWatermelons\obj\Debug\1. MelonsAndWatermelons.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\1. MelonsAndWatermelons\obj\Debug\_1.MelonsAndWatermelons.pdb

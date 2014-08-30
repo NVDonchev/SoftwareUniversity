@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\5. BitPaths\bin\Debug\_5.BitPaths.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\5. BitPaths\bin\Debug\_5.BitPaths.pdb
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\5. BitPaths\obj\Debug\5. BitPaths.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\5. BitPaths\obj\Debug\_5.BitPaths.exe
-D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\5. BitPaths\obj\Debug\_5.BitPaths.pdb

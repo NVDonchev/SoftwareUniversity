@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\4. MagicStrings\bin\Debug\_4.MagicStrings.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\4. MagicStrings\bin\Debug\_4.MagicStrings.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\4. MagicStrings\obj\Debug\4. MagicStrings.csprojResolveAssemblyReference.cache
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\4. MagicStrings\obj\Debug\_4.MagicStrings.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\4. MagicStrings\obj\Debug\_4.MagicStrings.pdb

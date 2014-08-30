@@ -1,5 +1,0 @@
-D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\3. Sunglasses\bin\Debug\_3.Sunglasses.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\3. Sunglasses\bin\Debug\_3.Sunglasses.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\3. Sunglasses\obj\Debug\_3.Sunglasses.exe
-D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\3. Sunglasses\obj\Debug\_3.Sunglasses.pdb
-D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\3. Sunglasses\obj\Debug\3. Sunglasses.csprojResolveAssemblyReference.cache

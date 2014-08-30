@@ -1,4 +1,0 @@
-C:\Users\Software Development\Desktop\C# Exam\Exam\InputGenerator\bin\Debug\InputGenerator.exe
-C:\Users\Software Development\Desktop\C# Exam\Exam\InputGenerator\bin\Debug\InputGenerator.pdb
-C:\Users\Software Development\Desktop\C# Exam\Exam\InputGenerator\obj\Debug\InputGenerator.exe
-C:\Users\Software Development\Desktop\C# Exam\Exam\InputGenerator\obj\Debug\InputGenerator.pdb
