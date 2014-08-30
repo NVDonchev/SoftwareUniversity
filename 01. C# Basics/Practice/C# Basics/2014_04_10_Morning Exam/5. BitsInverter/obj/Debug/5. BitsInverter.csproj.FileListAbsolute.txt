@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\5. BitsInverter\bin\Debug\_5.BitsInverter.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\5. BitsInverter\bin\Debug\_5.BitsInverter.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\5. BitsInverter\obj\Debug\5. BitsInverter.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\5. BitsInverter\obj\Debug\_5.BitsInverter.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_10_Morning\5. BitsInverter\obj\Debug\_5.BitsInverter.pdb

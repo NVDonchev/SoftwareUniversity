@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\5. BitShooter\bin\Debug\_5.BitShooter.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\5. BitShooter\bin\Debug\_5.BitShooter.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\5. BitShooter\obj\Debug\5. BitShooter.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\5. BitShooter\obj\Debug\_5.BitShooter.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\5. BitShooter\obj\Debug\_5.BitShooter.pdb

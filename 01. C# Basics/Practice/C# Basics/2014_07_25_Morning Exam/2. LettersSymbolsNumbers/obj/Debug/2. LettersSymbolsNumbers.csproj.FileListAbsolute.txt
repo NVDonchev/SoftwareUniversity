@@ -1,0 +1,4 @@
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\2. LettersSymbolsNumbers\bin\Debug\_2.LettersSymbolsNumbers.exe
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\2. LettersSymbolsNumbers\bin\Debug\_2.LettersSymbolsNumbers.pdb
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\2. LettersSymbolsNumbers\obj\Debug\_2.LettersSymbolsNumbers.exe
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Morning\2. LettersSymbolsNumbers\obj\Debug\_2.LettersSymbolsNumbers.pdb

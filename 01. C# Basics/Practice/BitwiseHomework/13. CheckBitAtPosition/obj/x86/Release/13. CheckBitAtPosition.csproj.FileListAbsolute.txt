@@ -1,0 +1,5 @@
+C:\Users\Pathaway\Desktop\BitwiseHomework\13. CheckBitAtPosition\bin\Release\_13.CheckBitAtPosition.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\13. CheckBitAtPosition\bin\Release\_13.CheckBitAtPosition.pdb
+C:\Users\Pathaway\Desktop\BitwiseHomework\13. CheckBitAtPosition\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Pathaway\Desktop\BitwiseHomework\13. CheckBitAtPosition\obj\x86\Release\_13.CheckBitAtPosition.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\13. CheckBitAtPosition\obj\x86\Release\_13.CheckBitAtPosition.pdb

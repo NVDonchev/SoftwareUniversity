@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\1. FruitMarket\bin\Debug\_1.FruitMarket.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\1. FruitMarket\bin\Debug\_1.FruitMarket.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\1. FruitMarket\obj\Debug\1. FruitMarket.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\1. FruitMarket\obj\Debug\_1.FruitMarket.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_14_Morning\1. FruitMarket\obj\Debug\_1.FruitMarket.pdb

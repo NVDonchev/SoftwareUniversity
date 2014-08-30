@@ -1,0 +1,5 @@
+C:\Users\Pathaway\Desktop\BitwiseHomework\11.ExtractBitThree\bin\Debug\11.ExtractBitThree.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\11.ExtractBitThree\bin\Debug\11.ExtractBitThree.pdb
+C:\Users\Pathaway\Desktop\BitwiseHomework\11.ExtractBitThree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pathaway\Desktop\BitwiseHomework\11.ExtractBitThree\obj\x86\Debug\11.ExtractBitThree.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\11.ExtractBitThree\obj\x86\Debug\11.ExtractBitThree.pdb

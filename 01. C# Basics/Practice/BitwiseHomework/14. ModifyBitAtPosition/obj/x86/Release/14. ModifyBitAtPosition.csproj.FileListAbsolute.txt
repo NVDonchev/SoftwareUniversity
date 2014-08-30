@@ -1,0 +1,5 @@
+C:\Users\Pathaway\Desktop\BitwiseHomework\14. ModifyBitAtPosition\bin\Release\_14.ModifyBitAtPosition.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\14. ModifyBitAtPosition\bin\Release\_14.ModifyBitAtPosition.pdb
+C:\Users\Pathaway\Desktop\BitwiseHomework\14. ModifyBitAtPosition\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Pathaway\Desktop\BitwiseHomework\14. ModifyBitAtPosition\obj\x86\Release\_14.ModifyBitAtPosition.exe
+C:\Users\Pathaway\Desktop\BitwiseHomework\14. ModifyBitAtPosition\obj\x86\Release\_14.ModifyBitAtPosition.pdb
