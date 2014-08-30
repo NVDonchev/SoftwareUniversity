@@ -1,4 +1,0 @@
-C:\Users\Software Development\Desktop\C# Exam\Exam\3. Problem3\bin\Debug\_3.Problem3.exe
-C:\Users\Software Development\Desktop\C# Exam\Exam\3. Problem3\bin\Debug\_3.Problem3.pdb
-C:\Users\Software Development\Desktop\C# Exam\Exam\3. Problem3\obj\Debug\_3.Problem3.exe
-C:\Users\Software Development\Desktop\C# Exam\Exam\3. Problem3\obj\Debug\_3.Problem3.pdb
