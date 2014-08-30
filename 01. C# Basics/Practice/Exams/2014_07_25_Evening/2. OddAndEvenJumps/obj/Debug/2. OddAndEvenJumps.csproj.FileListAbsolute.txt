@@ -1,0 +1,4 @@
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\2. OddAndEvenJumps\bin\Debug\_2.OddAndEvenJumps.exe
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\2. OddAndEvenJumps\bin\Debug\_2.OddAndEvenJumps.pdb
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\2. OddAndEvenJumps\obj\Debug\_2.OddAndEvenJumps.exe
+D:\Development\Software University\Practice\C# Basics\2014_07_25_Evening\2. OddAndEvenJumps\obj\Debug\_2.OddAndEvenJumps.pdb

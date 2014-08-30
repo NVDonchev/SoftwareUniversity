@@ -1,0 +1,5 @@
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\3. TheExplorer\bin\Debug\_3.TheExplorer.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\3. TheExplorer\bin\Debug\_3.TheExplorer.pdb
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\3. TheExplorer\obj\Debug\3. TheExplorer.csprojResolveAssemblyReference.cache
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\3. TheExplorer\obj\Debug\_3.TheExplorer.exe
+D:\Development\Software University\Practice\C# Basics\2014_04_11_Morning\3. TheExplorer\obj\Debug\_3.TheExplorer.pdb
