@@ -1,0 +1,5 @@
+Commands used:
+
+set "PATH=%PATH%;C:\Program Files\Java\jdk1.6.0_18\bin"			// Adds a the path to the JDK to the PATH variable
+javac _06_sumtwonumbers.java									// Executed from the folder containing the .java file. Compiles the source code.
+java _06_SumTwoNumbers											// Executed from the folder containing the .class file. Runs the program.
