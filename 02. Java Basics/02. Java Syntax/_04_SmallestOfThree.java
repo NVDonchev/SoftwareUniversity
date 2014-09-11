@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Write a program that finds the smallest of three numbers.
+
 public class _04_SmallestOfThree {
 	public static void main(String[] args) {
 		// Getting user input
